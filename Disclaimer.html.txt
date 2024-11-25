@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCUML Disclaimer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            text-align: center;
+            color: #777;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #fff;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SCUML Disclaimer</h1>
+        <p>
+            This document is issued in compliance with the regulations of the Special Control Unit Against Money Laundering (SCUML) to ensure the transparency and integrity of our operations. 
+        </p>
+        <p>
+            By proceeding, you acknowledge and accept that any personal or business information submitted is provided voluntarily and with an understanding of its purpose for SCUML compliance. 
+        </p>
+        <p>
+            Our organization adheres to the highest standards of confidentiality and data protection in processing your details.
+        </p>        <p>
+            Note: there are no refunds once payments is being done or confirmed.
+        </p>
+
+        <div class="button-container">
+            <a href="https://docs.google.com/forms/d/1y4I6cZdfvgfd5VvzLNoDbZ_kCFPKtB64ySeDxCUSS0c/" class="btn">Proceed to Form</a>
+        </div>
+    </div>
+    <div class="footer">
+        &copy; 2024 GTG Consulting Firm. All rights reserved.
+    </div>
+</body>
+</html>
